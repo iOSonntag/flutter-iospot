@@ -1,14 +1,14 @@
 
 # This is the real app name shown to users. Is for example shown on the home
 # screen below the app icon on iOS and Android.
-app_name: "Your Awesome App"
+app_name: "iospot"
 
 # The dart package name of the app. This is the name used in import statements.
 #
 # NOTE: 
 # - this is not the app id / bundle id / application id as used in the app store
 #   or play store
-app_package: "awesomeapp"
+app_package: "iospot"
 
 # This is the uniquely identifying name of the app. It is for example used in
 # the app store or play store to identify the app. 
@@ -18,5 +18,5 @@ app_package: "awesomeapp"
 #
 # Follows the reverse domain name notation, e.g.:
 # com.example.awesomeapp
-app_id: "com.example.awesomeapp"
+app_id: "com.iosonntag.iospotapp"
 
