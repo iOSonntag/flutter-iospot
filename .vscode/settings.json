@@ -10,6 +10,7 @@
     "macswitch",
     "pubspec",
     "RFORMAT",
+    "sidebarx",
     "templus"
   ],
   "files.exclude": {
